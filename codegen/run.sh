@@ -1,0 +1,1 @@
+java -cp $CLASSPATH:../out/production/antlr4 codegen.Main Demo.j
